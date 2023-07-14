@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Eater&display=swap');
+
+
+html{
+    /* font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-family: 'Eater', cursive;
+    font-size: large;
+    font-weight: 100;
+    font-style: oblique;
+}
