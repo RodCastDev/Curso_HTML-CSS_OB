@@ -1,0 +1,49 @@
+.colores-hexa{
+    color:#CD4631;
+}
+
+.colores{
+    color: gold;
+}
+
+.color-rgb{
+    color: rgb(100,0,123);
+}
+
+.color-rgba{
+    color: rgba(100, 455, 45, 0.5)
+}
+
+/* Fondos */
+
+.fondo{
+    /* background-color: blueviolet; */
+    background-image: url("https://img.freepik.com/free-photo/blurred-abstract-background-smooth-colors_58702-1573.jpg?w=1380&t=st=1689299514~exp=1689300114~hmac=c24726fbfbdc7baeadd0516ba730695058b478e45241acc92c1957ca532f3daa");
+    background-position: center right ;
+}
+
+.fondo-iterno{
+    /* background-color: blueviolet; */
+    background-image: url("https://img.freepik.com/free-photo/blurred-abstract-background-smooth-colors_58702-1573.jpg?w=1380&t=st=1689299514~exp=1689300114~hmac=c24726fbfbdc7baeadd0516ba730695058b478e45241acc92c1957ca532f3daa");
+    background-position: center right ;
+}
+
+.ancho{
+    background-color: brown;
+    width: 100px;
+}
+
+.alto{
+    background-color: aqua;
+    height: 500px;
+}
+
+.tarjeta{
+    border-style: solid;
+    border-color: rgb(150, 150, 150);
+    border-width: 1px;
+    /* border-top: none; */
+    padding: 1px 2px;
+    /* padding: 10px 20px 30px 40px; */
+    margin: 1px 1px;
+}

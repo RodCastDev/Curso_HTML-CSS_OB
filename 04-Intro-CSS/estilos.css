@@ -1,0 +1,36 @@
+h1 {   
+    color: green
+}
+
+/*Estoy probando colores y fuentes*/
+p{
+    color: blue;
+    font-size: 16pt;
+}
+
+#primeraN{
+    color: blueviolet;
+    font-size: 16pt;
+}
+
+#segundaN{
+    color: chartreuse;
+
+}
+
+.encabezado{
+    color: burlywood;
+    font-size: 24pt;
+}
+
+*.warning{
+    color: red;
+}
+
+.Autor, .Ubicacion, .Fecha, h1, #segundaN {
+    text-decoration: underline;
+}
+
+*{
+    color: black;
+}
